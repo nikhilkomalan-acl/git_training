@@ -1,2 +1,2 @@
 # git_training
-Git training repo
+Git training repo by Nikhil Komalan
